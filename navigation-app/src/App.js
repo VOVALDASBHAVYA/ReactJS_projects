@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/NavBar';
-
+import Counter from './Counter';
+import Channel from './components/Channel';
 function App() {
   return (
     <div className="App">
-     <NavBar />
+      <Counter/> 
+     <Channel/>
     </div>
   );
 }
