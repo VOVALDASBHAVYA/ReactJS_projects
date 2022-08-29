@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "andrew",
+      "batch": "oilc-203",
+      "course": "testing"
+    },
+    {
+      "id": 3,
+      "name": "andria",
+      "batch": "oilc-203",
+      "course": "java"
+    },
+    {
+      "id": 4,
+      "name": "vovaldas",
+      "course": "Testing"
+    },
+    {
+      "id": 1,
+      "name": "sri",
+      "course": "Reactjs"
+    },
+    {
+      "id": 123,
+      "name": "bgh",
+      "course": "Testing"
+    }
+  ]
+}

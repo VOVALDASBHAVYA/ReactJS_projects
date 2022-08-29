@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "sri",
+      "age": 25,
+      "technology": "Reactjs",
+      "salary": 25000
+    },
+    {
+      "id": 2,
+      "name": "andrew",
+      "age": 23,
+      "technology": "testing",
+      "salary": 15000
+    },
+    {
+      "id": 3,
+      "name": "andria",
+      "age": 20,
+      "technology": "java",
+      "salary": 20000
+    },
+    {
+      "id": 4,
+      "name": "vovaldas",
+      "age": 22,
+      "technology": "Reactjs",
+      "salary": 25000
+    },
+    {
+      "id": 5,
+      "name": "sri",
+      "age": 22,
+      "technology": "Reactjs",
+      "salary": 50000
+    },
+    {
+      "id": 6,
+      "name": "bgh",
+      "age": 2,
+      "technology": "Java",
+      "salary": 50000
+    },
+    {
+      "id": 7,
+      "name": "vovaldas",
+      "age": 22,
+      "technology": "Testing",
+      "salary": 15000
+    },
+    {
+      "id": 8,
+      "age": null,
+      "salary": null
+    }
+  ]
+}

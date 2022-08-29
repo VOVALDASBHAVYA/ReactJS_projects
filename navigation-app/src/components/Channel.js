@@ -13,7 +13,7 @@ function Channel() {
     <div>
       <h1>{msg}</h1>
       {/* 0:means thank you; 1&2: means thanks for subscription*/}
-      <button className="btn btn-danger" onClick={()=>{setMsg(count1=>1?msg="Thank you for subscription":(count1==2?msg="You have already subscribed":"Thank you"))}}>Subscribe</button>
+      <button className="btn btn-danger" onClick={()=>{setMsg(count1=>0?msg="Thank you for subscription":(count1==2?msg="Thank you":msg="You have already subscribed"))}}>Subscribe</button>
       {/* {()=>{setCount(count<=0?count=0:count-1)}} */}
 
     </div>
